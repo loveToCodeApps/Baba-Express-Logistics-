@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/homemenu"
+        android:icon="@drawable/icons8_home_24"
+        android:title="Delivery Operation"/>
+
+    <item android:id="@+id/pickup_scan"
+        android:icon="@drawable/icons8_barcode_reader_24"
+        android:title="Pickup Runsheet"/>
+
+    <item android:id="@+id/declarationcumdisclaimer"
+        android:icon="@drawable/icons8_profile_24"
+        android:title="Declaration Cum Disclaimer"/>
+
+    <item android:id="@+id/account"
+        android:icon="@drawable/icons8_profile_24"
+        android:title="My Account"/>
+
+    <item android:id="@+id/btnlogout"
+        android:icon="@drawable/icons8_logout_rounded_left_24"
+        android:title="Logout"/>
+
+</menu>
